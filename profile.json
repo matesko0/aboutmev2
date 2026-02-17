@@ -75,9 +75,8 @@
     {
       "title": "Osobní web",
       "description": "Jednostránkový profil na GitHub Pages s dynamickým načítáním.",
-      "link": "https://github.com/vys-matejmarsik/portfolio",
+      "link": "https://github.com/matesko0/aboutmev2",
       "tags": ["HTML", "JS", "Tailwind"]
     }
   ]
 }
-
