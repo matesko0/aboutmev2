@@ -53,8 +53,8 @@
       "hoverColor": "hover:bg-red-600"
     },
     {
-      "title": "Apple",
-      "icon": "fa-brands fa-apple",
+      "title": "Tech",
+      "icon": "fa-cog",
       "color": "gray-800",
       "hoverColor": "hover:bg-gray-900"
     },
@@ -80,3 +80,4 @@
     }
   ]
 }
+
