@@ -1,0 +1,17 @@
+{
+  "name": "Matěj Maršík",
+  "skills": [
+    "Programování (Python, C#, C)",
+    "CapCut & Canva (střih a grafika)",
+    "Excel & Cloud (správa dat)",
+    "Sítě & Software",
+    "Logické řešení problémů",
+    "AI nástroje a novinky"
+  ],
+  "interests": [
+    { "title": "Hasiči", "icon": "fa-fire-extinguisher", "color": "hover:bg-red-600" },
+    { "title": "Apple", "icon": "fa-brands fa-apple", "color": "hover:bg-gray-900" },
+    { "title": "Gaming", "icon": "fa-gamepad", "color": "hover:bg-emerald-600" },
+    { "title": "Lyžování", "icon": "fa-person-skiing", "color": "hover:bg-blue-600" }
+  ]
+}
