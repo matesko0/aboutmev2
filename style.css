@@ -1,0 +1,19 @@
+@keyframes aurora-strong {
+    0% { transform: translate(0, 0) scale(1); }
+    33% { transform: translate(15%, -10%) scale(1.3); }
+    66% { transform: translate(-15%, 10%) scale(0.7); }
+    100% { transform: translate(0, 0) scale(1); }
+}
+
+.animate-aurora-strong {
+    animation: aurora-strong 12s infinite ease-in-out alternate;
+    will-change: transform;
+}
+
+.delay-2000 { animation-delay: 2s; }
+.delay-4000 { animation-delay: 4s; }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
